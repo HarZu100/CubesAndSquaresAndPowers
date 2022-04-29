@@ -76,3 +76,10 @@ public class CubesAndSquaresAndPowers {
             {
                 System.out.println("You have exited the program.");
             }
+        
+        
+        
+    }
+    
+}
+
